@@ -1,6 +1,7 @@
 ### Hi there 👋
 https://avialxee.github.io
 
+https://resume.github.io/?avialxee
 <!--
 **avialxee/avialxee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
