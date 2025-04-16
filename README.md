@@ -1,9 +1,17 @@
 ### Hi there 👋
-https://avialxee.github.io
 
-https://resume.github.io/?avialxee
+
+I recently moved my Github username from **@avialxee** to **avikhagol**
+
+https://avikhagol.github.io
+
+https://resume.github.io/?avikhagol
+
+<!-- - 🔭 I’m currently working on `vasco` A VLBI and and SMILE project based CASA optimizations tool. -->
+
+
 <!--
-**avialxee/avialxee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**avikhagol/avikhagol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
